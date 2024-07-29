@@ -46,8 +46,8 @@
         display: none;
     }
     .gifp{
-        width: 400px;
-        height: 400px
+      width: 350px;
+      height: 350px;
     }
 }
 
@@ -207,7 +207,7 @@
   position: relative;
   width: 220px;
   height: 250px;
-  background: url(gambar/body.jpg);
+  background: transparent;
   display: flex;
   justify-content: center;
   align-items: center;
