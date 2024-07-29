@@ -45,6 +45,10 @@
     .copyright-menu{
         display: none;
     }
+    .gifp{
+        width: 400px;
+        height: 400px
+    }
 }
 
 .fixed-top-2 {
